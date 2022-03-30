@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## r2edu.cn 阿图教育
 
-You can use the [editor on GitHub](https://github.com/r2-edu/r2-edu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### 为中国培养100万信创产业人才
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* 在国际局势日益紧张的当下，信创将成为当前信息化战争最坚固的一道防线，信创人才逐步成为这场战役能否如期打赢的关键所在。
 
-### Markdown
+* 2020年8月份信创工委会面的调研数据显示，信创人才需求达到100万人，对于专业的信创中高端管理人员需求更是达到了前所未有的高度。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* 做真正以培养交付及管理型信创人才为目标，紧抓信创人才培训需求方向、课程内容有干货落地实用，且以赋能行业为出发点的培训机构。
 
-```markdown
-Syntax highlighted code block
+### 芯片领域
+* 龙芯技术教育网站: http://loongsonedu.cn
+* RISC-V开源芯片: http://riscvedu.com
 
-# Header 1
-## Header 2
-### Header 3
+### 操作系统
+* rcore开源操作系统: http://os2edu.cn
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/r2-edu/r2-edu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 编程语言
+* Rust: https://rustedu.com
+* React: http://reactedu.com
