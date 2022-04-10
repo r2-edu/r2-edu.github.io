@@ -15,7 +15,7 @@
 ### 编程语言
 * Rust: <https://rustedu.com>
 
-### 前端框架
+### 网站构建
 * React: <http://reactedu.com>
 * Vue: <http://vueedu.cn>
 
