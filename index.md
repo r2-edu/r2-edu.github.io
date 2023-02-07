@@ -20,4 +20,7 @@
 * React培训: <http://reactedu.com>
 * Vue培训: <http://vueedu.cn>
 
+### 应用开发工程师
+* 鸿蒙开发工程师培训: <https://harmonyos-edu.cn/>
+
 报名咨询微信号：limingth
