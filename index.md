@@ -6,21 +6,21 @@
 阿图教育 (<http://r2edu.cn>) 以培养交付一批核心一流信创人才为目标，紧抓信创人才培训需求方向、课程内容有干货落地实用，以教育培训赋能行业为出发点，在未来10年将在以下的关键技术培训领域力争有所作为！
 
 ### 芯片领域
-* 龙芯技术教育培训: <http://loongsonedu.cn>
-* RISC-V开源芯片架构培训: <http://riscvedu.com>
+* 龙芯技术教育培训: <https://loongsonedu.cn>
+* RISC-V开源芯片架构培训: <https://riscvedu.com>
 
 ### 操作系统领域
-* 开源操作系统培训: <http://os2edu.cn>
+* 开源操作系统培训: <https://os2edu.cn>
 * 智能汽车操作系统开发培训: <https://cicvedu.com>
 
 ### 编程语言领域
 * Rust培训: <https://rustedu.com>
 
 ### 网站构建领域
-* React培训: <http://reactedu.com>
-* Vue培训: <http://vueedu.cn>
+* React培训: <https://reactedu.com>
+* Vue培训: <https://vueedu.cn>
 
 ### 应用开发工程师
 * 鸿蒙开发工程师培训: <https://harmonyos-edu.cn/>
 
-报名咨询微信号：limingth
+**课程报名/业务合作请咨询微信号：limingth**
