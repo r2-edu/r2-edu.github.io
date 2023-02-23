@@ -13,14 +13,12 @@
 * 开源操作系统培训: <https://os2edu.cn>
 * 智能汽车操作系统开发培训: <https://cicvedu.com>
 
-### 编程语言领域
+### 编程开发
 * Rust培训: <https://rustedu.com>
+* 鸿蒙开发工程师培训: <https://harmonyos-edu.cn/>
 
-### 网站构建领域
+### 网站构建
 * React培训: <https://reactedu.com>
 * Vue培训: <https://vueedu.cn>
-
-### 应用开发工程师
-* 鸿蒙开发工程师培训: <https://harmonyos-edu.cn/>
 
 **课程报名/业务合作请咨询微信号：limingth**
