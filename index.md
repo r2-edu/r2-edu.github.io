@@ -7,19 +7,19 @@
 
 ### 芯片领域
 * 龙芯技术教育培训: <https://loongsonedu.cn>
-* RISC-V开源芯片架构培训: <https://riscvedu.com>  <https://riscv-edu.cn>
+* RISC-V开源芯片架构培训: <http://riscvedu.com>  <http://riscv-edu.cn>
 
 ### 操作系统领域
-* 开源操作系统培训: <https://os2edu.cn>
-* 车用操作系统开发培训: <https://cicvedu.com>
+* 开源操作系统培训: <http://os2edu.cn>
+* 车用操作系统开发培训: <http://cicvedu.com>
 
 ### 编程开发
-* Rust培训: <https://rustedu.com>
-* 鸿蒙开发工程师培训: <https://harmonyos-edu.cn/>
+* Rust培训: <http://rustedu.com>
+* 鸿蒙开发工程师培训: <http://harmonyos-edu.cn/>
 
 ### 网站构建
-* React培训: <https://reactedu.com>
-* Vue培训: <https://vueedu.cn>
+* React培训: <http://reactedu.com>
+* Vue培训: <http://vueedu.cn>
 
 ---
 
